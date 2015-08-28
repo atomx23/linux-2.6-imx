@@ -1483,7 +1483,7 @@ CONFIG_WLAN=y
 # CONFIG_PRISM54 is not set
 # CONFIG_USB_ZD1201 is not set
 # CONFIG_HOSTAP is not set
-# CONFIG_WL_TI is not set
+CONFIG_WL_TI=y
 
 #
 # Enable WiMAX (Networking options) to see the WiMAX drivers
